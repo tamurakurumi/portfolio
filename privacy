@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="田村胡桃のプライバシーポリシーページです。当カフェをご利用する際にご一読ください。">
+<title>プライバシーポリシー</title>
+<link href="css/normalize.css" rel="stylesheet" type="text/css">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+</head>
+ 
+<body class="sitemap">
+    
+<header>
+<h1><a href="index1.html"><img src="images/rogo.JPG" alt="田村胡桃のロゴ"></a></h1>
+
+<nav>
+<ul>
+<li><a href="index1.html">ホーム</a></li>
+<li><a href="2031work.html">2031年の私の仕事</a></li>    
+<li><a href="2031pri.html">2031年の私のプライベート</a></li>
+<li><a href="portfolio.html">ポートフォリオ</a></li>
+<li><a href="info.html">お問い合わせ</a></li>
+</ul>
+</nav>
+
+</header>
+
+<main>
+<div class="title">
+    <h1>プライバシーポリシー</h1>
+    <ol>
+    <li><a href="index.html">ホーム</a></li>
+    <li>プライバシーポリシー</li>
+    </ol>
+</div>
+    <div class="inner">
+        <h2>プライバシー</h2>
+        <p>私は、貴社からご提供いただきました氏名、電話番号、メールアドレスその他プライバシーに関すること（以下個人情報と言います）を「個人情報の保護の原則」に則り慎重に取り扱い、プライバシーの保護に努めています。</p>
+        <dl>
+        <dt>個人情報の利用目的</dt>
+        <dd>貴社からご提供いただく個人情報は、業務上の目的にのみ利用するもので、貴社から同意をいただかない限り、この目的以外に利用することはありません。</dd>
+        <dt>第三者への提供</dt>
+        <dd>貴社からご提供いただきました個人情報は、第三者に提供いたしません。尚、法的な命令等により個人情報の開示が要求された場合は、この限りではありません。</dd>
+        <dt>個人情報の管理</dt>
+        <dd>私たちは、貴社からご提供いただいた個人情報の漏洩及び流出を防止するため、適切な措置を講じております。</dd>
+        <dt>変更及び告知</dt>
+        <dd>プライバシーポリシーの内容は、必要に応じて変更することがあります。内容に関しては、貴社へその都度ご連絡はいたしかねますので、ご利用の際には本ページの最新の内容をご参照ください。</dd>
+        <dt>お問い合わせ</dt>
+        <dd>お客様ご自身の個人情報やこのページの内容に関するお問合せ・苦情は、こちらで受付けいたします。<br>
+        </dl>
+        <h2>免責事項</h2>
+        <p>本webサイトに掲載する情報の正確性には充分注意を払っていますが、その内容について保証するものではありません。本webサイトの使用ならびに閲覧によって生じたいかなる損害にも責任を負いかねます。本webサイトのURLや情報は予告なく変更される場合があります。</p>
+         <dl>
+             <dt>著作権</dt>
+             <dd>本webサイトに掲載されている全てのコンテンツは、田村胡桃が所有しています。書面による許可なく、個人的な目的以外で使用することは禁止いたします。</dd>
+             <dt>リンクについて</dt>
+             <dd>リンクに関しましては原則的に自由ですが、リンクに関した問題発生や責任につきましては田村胡桃は一切負いませんのでご了承ください。</dd>
+        </dl>
+        </div>
+    </main>
+
+<footer>
+<ul>
+<li><a href="sitemap.html">サイトマップ</a></li>
+<li><a href="privacypolicy.html">プライバシーポリシー</a></li>
+</ul>
+<p><small>&copy; 2021 TamuraKurumi.</small></p>  
+</footer>
+
+</body>  
+</html>
