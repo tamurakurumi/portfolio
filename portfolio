@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="駿台電子情報＆ビジネス専門学校デジタルクリエイター科2年田村胡桃の10年後の自分＆ポートフォリオ集サイトになります。ぜひご覧ください">
+<title>2030年の田村胡桃</title>
+<link href="css/normalize.css" rel="stylesheet" type="text/css">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+</head>
+ 
+<body class="guide">
+    
+<header>
+<h1><a href="index.html"><img src="images/rogo.JPG" alt="田村胡桃ロゴ"></a></h1>
+
+<nav>
+<ul>
+<li><a href="index1.html">ホーム</a></li>
+<li><a href="2031work.html">2031年の私の仕事</a></li>    
+<li><a href="2031pri.html">2031年の私のプライベート</a></li>
+<li><a href="portfolio.html">ポートフォリオ作品集</a></li>
+<li><a href="info.html">お問い合わせ</a></li>
+</ul>
+</nav>
+
+</header>
+
+<main>
+<div class="title">
+    <h1>ポートフォリオ</h1>
+    <ol>
+    <li><a href="index.html">ホーム</a></li>
+    <li>ご利用案内</li>
+    </ol>
+    </div>
+    <div class="port">
+    <div>
+    <br>
+    <div>
+
+<table>
+<tr><td style="border-style: none;">
+<img src="portfolio/%E3%81%8A%E3%81%86%E3%81%A1%E3%82%AB%E3%83%95%E3%82%A7.png" alt="おうちカフェのデザイン" width="400">
+</td><td style="border-style: none;">
+<img src="portfolio/%E3%81%97%E3%82%89%E3%81%93%E3%81%B0%E3%81%A8%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC.png" alt="しらこばと幼稚園のチラシ" width="470" height="565">
+<tr><td style="border-style: none;">
+家で作ったスイーツ写真を淡くてお洒落な雰囲気にデザインしました。<br>泡をイメージした模様や世界観を壊さないように<br>色をなるべく合わせたりしました。
+</td><td style="border-style: none;">
+元のチラシから改善点を考え私なりに直した幼稚園のチラシで、ポップなデザインにしました。<br>幼稚園の雰囲気が伝わるように色を明るくして手書き風の吹き出しや<br>テープで貼りつけたような囲いをつけました。
+    
+<tr><td style="border-style: none;">
+<img src="portfolio/%E3%83%80%E3%82%A4%E3%82%A8%E3%83%83%E3%83%88%E9%A3%AF.png" alt="ダイエット飯についてのエディトリアルデザイン" width="400">
+</td><td style="border-style: none;">
+<img src="portfolio/%E3%83%87%E3%82%B9%E3%82%B3%E3%83%B3%E3%83%93%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3.png" alt="デスゲームのデザイン" width="440" height="565">
+<tr><td style="border-style: none;">
+ダイエットご飯をシンプルでお洒落にデザインしました。<br>意識の高い若い女性に見てもらえるようにスッキリさせ、<br>料理の色が映えるように他をモノトーンにしました。
+</td><td style="border-style: none;">
+こんなデスゲームがあったらいいなというのをイラストにしました。<br>怖いけどその中でも明るく見えるような色にしたり、<br>パッと見てどんなゲームなのかわかるようにしました。
+    
+<tr><td style="border-style: none;">
+<img src="portfolio/%E3%83%9D%E3%82%AB%E3%83%AA%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC.png" alt="ポカリのポスター" width="400">
+</td><td style="border-style: none;">
+<img src="portfolio/%E5%A5%B3%E6%80%A7.png" alt="勇敢なお姫様のイラスト" width="400">
+<tr><td style="border-style: none;">
+キャッチコピーから全体のデザインを考えたポカリのポスターです。<br>水々しさを表現するために雀と雫を合わせて自由さを表現したり<br>背景をグラデーションにして水の中を表しました。
+</td><td style="border-style: none;">
+昼と夜がテーマでお姫様を描きました。<br>フォトショップのブラシツールを持ち入りました。<br>影や透け感を頑張りました。
+    
+<tr><td style="border-style: none;">
+<img src="portfolio/%E7%A7%8B%E7%94%B0%E3%82%AB%E3%83%95%E3%82%A7.png" alt="秋田のカフェのエディトリアルデザイン" width="400">
+</td><td style="border-style: none;">
+<img src="portfolio/%E5%86%99%E3%82%8B%E3%82%93%E3%81%A7%E3%81%99.png" alt="写るんですのポスター" width="400">
+<tr><td style="border-style: none;">
+秋田で行ったカフェを爽やかにお洒落にデザインしました。<br>地元の新鮮な食材を表すために植物や食材を散らし<br>色みも赤、白、緑をメインにしました。
+</td><td style="border-style: none;">
+写るんですで実際に撮った写真を使ってポスターを作りました。<br>青春さと思い出の切り取りをイメージした背景にしました。<br>被写体も楽しそうな一面を切り取りました。
+    
+<tr><td style="border-style: none;">
+<img src="portfolio/%E8%9C%82%E8%9C%9C%E3%83%AD%E3%82%B4%E9%9B%86.png" alt="はちみつのロゴイラスト" width="400">
+</td><td style="border-style: none;">
+<img src="portfolio/%E6%9C%9D%E9%A3%9F%E5%BA%83%E5%91%8A3.png" alt="朝食のポスター" width="400">
+<tr><td style="border-style: none;">
+はちみつから連想するロゴを５つ考えました。<br>レトロ、淡く、可愛く、カジュアルな、質感をそれぞれコンセプトにして使いました。<br>手書きを写したり、イラレのツールで作ったり作り方もそれぞれです。
+</td><td style="border-style: none;">
+朝食はパン、ということをコンセプトに置いた広告です。<br>お洒落に気を使うけど栄養も取りたいというペルソナを設定して、絵柄も<br>色も、シンプルお洒落な朝をイメージしました。
+</td></tr>
+</td></tr></td></tr></td></tr></td></tr></td></tr></td></tr></td></tr></td></tr></td></tr>        
+</table>
+    </div>
+        </div>
+    </div>
+<h2>イラストとデザイン以外にも・・・</h2>
+<p><img src="portfolio/game1.png" alt="ゲーム開始画面" width="600"></p>
+<p><img src="portfolio/game2.png" alt="主人公と友達が話す場面" width="600"></p>
+<p><img src="portfolio/game3.png" alt="選択肢場面" width="600"></p>
+<p><img src="portfolio/game4.png" alt="幽霊が出てくる場面" width="600"></p>
+<p>「呼び子さん」という選択型ホラーゲームを作りました。物語を進めながら選択肢を選び、選んだものによってはハッピーエンドになったりバッドエンドになったりするように<br>プログラミングしました。M BLOCKのソフトを用いてプログラムし、イラストも自分で描いて、効果音や背景の色味までこだわって作りました。
+<a href="portfolio/%5B%E3%83%9B%E3%83%A9%E3%83%BC%E3%82%B2%E3%83%BC%E3%83%A0%5D%E5%91%BC%E3%81%B3%E5%AD%90.mblock" alt="ホラーゲーム呼び子さん"></a></p>
+</main>
+
+<footer>
+<ul>
+<li><a href="privacypolicy.html">プライバシーポリシー</a></li>
+</ul>
+<p><small>&copy; 2021 TamuraKurumi.</small></p>  
+</footer>
+
+</body>  
+</html>
