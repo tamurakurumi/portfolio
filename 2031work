@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="駿台電子情報＆ビジネス専門学校デジタルクリエイター科2年田村胡桃の10年後の自分＆ポートフォリオ集サイトになります。ぜひご覧ください">
+<title>2030年の田村胡桃</title>
+<link href="css/normalize.css" rel="stylesheet" type="text/css">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+</head>
+ 
+<body class="guide">
+    
+<header>
+<h1><a href="index.html"><img src="images/rogo.JPG" alt="田村胡桃ロゴ"></a></h1>
+
+<nav>
+<ul>
+<li><a href="index1.html">ホーム</a></li>
+<li><a href="2031work.html">2031年の私の仕事</a></li>    
+<li><a href="2031pri.html">2031年の私のプライベート</a></li>
+<li><a href="portfolio.html">ポートフォリオ作品集</a></li>
+<li><a href="info.html">お問い合わせ</a></li>
+</ul>
+</nav>
+
+</header>
+
+<main>
+<div class="title">
+    <h1>2031年の私の仕事</h1>
+    <ol>
+    <li><a href="index.html">ホーム</a></li>
+    <li>2031年の私の仕事</li>
+    </ol>
+    </div>
+    <div class="inner">
+    <img src="images/hyosiki.png" alt="青空と標識">
+    <div class="about">
+    <div>
+    <h2>キャリアプラン</h2>
+    <section>
+    <table>
+    <tr><th>  </th><th colspan="2"> WEBデザイナーとしての歩み</th>
+    <tr><th rowspan="2">2022年</th></tr>
+    <tr><td colspan="2">WEBデザイナーとして就職</td></tr>
+    <tr><th rowspan="2">2025年</th></tr>
+    <tr><td colspan="2">知識と経験を積み少しずつ仕事を任される</td></tr>
+    <tr><th rowspan="2">2027年</th></tr>
+    <tr><td colspan="2">大手のサイトデザインのプロジェクト一員へ</td></tr>
+    <tr><th rowspan="2">2028年</th></tr>
+    <tr><td colspan="2">1人の仕事を任され始める</td></tr>
+    <tr><th rowspan="2">2029年</th></tr>
+    <tr><td colspan="2">アートディレクターになる</td></tr>
+    <tr><th rowspan="2">2030年</th></tr>
+    <tr><td colspan="2">大手化粧品パッケージを任され大成功</td></tr>
+    <tr><th rowspan="2">2031年</th></tr>
+    <tr><td colspan="2">フリーランスとして活躍</td></tr>
+    </table>
+     <p>※あくまでただのイメージです</p>
+    </section>
+    </div>
+    <p class="pright"><br><br><br><br><br><img src="images/aaa.png" alt="カラフルなイラスト" ></p>
+    </div>    
+    <h2>WEBデザイナーとして目指したいこと</h2>
+    <ul>
+    <li>リピートされるようなデザイン作りと人柄に。</li>
+    <li>クライアントとのコミュニケーションを大事にして望むものを作る。</li>
+    <li>作って終わりではなく、そこからサイトやデザインを見たお客様たちにも喜んでもらえることを最終目標にする。</li>
+        </ul>
+    <p>
+そのためには、様々なデザイナーを調べたり日常にあるデザインを真似たり観察したり、会社で先輩方からたくさんご指導して頂きたいです。常に努力していきます。</p>
+    </div>
+</main>
+
+<footer>
+<ul>
+<li><a href="privacypolicy.html">プライバシーポリシー</a></li>
+</ul>
+<p><small>&copy; 2021 TamuraKurumi.</small></p>  
+</footer>
+
+</body>  
+</html>
