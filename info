@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="駿台電子情報＆ビジネス専門学校デジタルクリエイター科2年田村胡桃の10年後の自分＆ポートフォリオ集サイトになります。ぜひご覧ください">
+<title>2030年の田村胡桃</title>
+<link href="css/normalize.css" rel="stylesheet" type="text/css">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+</head>
+ 
+<body class="home">
+
+<header>
+<h1><a href="index.html"><img src="images/rogo.JPG" alt="tamura kurumi"></a></h1>
+
+<nav>
+<ul>
+<li><a href="index1.html">ホーム</a></li>
+<li><a href="2031work.html">2031年の私の仕事</a></li>    
+<li><a href="2031pri.html">2031年の私のプライベート</a></li>
+<li><a href="portfolio.html">ポートフォリオ作品集</a></li>
+<li><a href="access.html">お問い合わせ</a></li>
+</ul>
+</nav>
+
+</header>
+
+<main>
+<div class="title">
+    <h1>お問い合わせ</h1>
+    <ol>
+    <li><a href="index.html">ホーム</a></li>
+    <li>お問い合わせ</li>
+    </ol>
+    </div>
+    <div class="port">
+    <div>
+    <br>
+    <div>
+<div class="center">
+<center>
+<h2>お問い合わせ先</h2>
+<p>メール:kurumi.1025.neko@i.softbank.jp<br>
+    電話:080-3339-9634<br>
+    または<br>
+    駿台電子情報＆ビジネス専門学校<br>
+    電話：0120-86-1296<br>
+    <br>
+    までよろしくお願いいたします。<br>
+    この度は貴重なお時間ありがとうございました。</p>
+    </center>
+</div>
+        </div>
+        </div>
+    </div>
+</main>
+
+<footer>
+<ul>
+<li><a href="privacy.html">プライバシーポリシー</a></li>
+</ul>
+<p><small>&copy; 2021 TamuraKurumi.</small></p>  
+</footer>
+
+</body>  
+</html>
